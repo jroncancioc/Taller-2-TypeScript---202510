@@ -8,4 +8,3 @@ export class Serie {
       public image: string
     ) {}
   }
-  
